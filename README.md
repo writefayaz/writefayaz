@@ -9,14 +9,6 @@ I'm trying to get rich with code !
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/fuzzm/)
 
 <hr>
-#### Top Repositories
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=writefayaz&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=writefayaz&repo=writefayaz.github.io&theme=buefy" />
-</a>
-<hr>
 <!--
 **writefayaz/writefayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
