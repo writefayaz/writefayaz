@@ -2,7 +2,7 @@
 
 # 👨‍💻 **Fayaz Mammoo (@writefayaz)**
 
-I'm trying to get rich with code !
+I'm trying to get rich !
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/twopinch)
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/fuzz__)
