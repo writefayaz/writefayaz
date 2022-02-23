@@ -15,16 +15,24 @@ I'm trying to get rich !
  </td>
   </tr>
  <tr>
+   <td>
     🌱 **Python, ABAP, JavaScript, Dart, Java**.
+     </td>
  </tr>
  <tr>
+   <td>
     🌱 **Exploring Artificial Intelligence & Machine Learning recently**.
+     </td>
  </tr>
  <tr>
+   <td>
     🎯 My Goal is to get rich coding :D
+     </td>
 </tr>
 <tr>  
+  <td>
   ✨ I love to create 
+    </td>
 </tr>
 </table>
 
