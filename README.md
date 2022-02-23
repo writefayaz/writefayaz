@@ -13,14 +13,19 @@ I'm trying to get rich !
   <td valign="center">
     🎓 I am **SAP Enterprise Mobility & Integration Consultant & Full Stack Software Developer**
    </td>
- <td >
+<tr>
     🌱 **Python, ABAP, JavaScript, Dart, Java**.
-  </td>
+ </tr>
+<tr>
     🌱 **Exploring Artificial Intelligence & Machine Learning recently**.
+ </tr>
+ <tr>
     🎯 My Goal is to get rich coding :D
-    ✨ I love to create 
-
-
+  </tr>
+  <tr>  
+  ✨ I love to create 
 </tr>
+
+
 </table>
 
