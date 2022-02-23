@@ -12,12 +12,15 @@ I'm trying to get rich !
 <tr>
   <td valign="center">
     🎓 I am **SAP Enterprise Mobility & Integration Consultant & Full Stack Software Developer**
+   </td>
+ <td >
     🌱 **Python, ABAP, JavaScript, Dart, Java**.
+  </td>
     🌱 **Exploring Artificial Intelligence & Machine Learning recently**.
     🎯 My Goal is to get rich coding :D
     ✨ I love to create 
-<td >
-</td>
+
+
 </tr>
 </table>
 
