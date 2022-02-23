@@ -10,7 +10,7 @@ I'm trying to get rich !
  
 <table>
 <tr>
-  <td valign="center">
+  <td>
     🎓 I am **SAP Enterprise Mobility & Integration Consultant & Full Stack Software Developer**
    </td>
 <tr>
