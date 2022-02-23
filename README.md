@@ -10,22 +10,19 @@ I'm trying to get rich !
  
 <table>
 <tr>
-  <td>
     🎓 I am **SAP Enterprise Mobility & Integration Consultant & Full Stack Software Developer**
-   </td>
-<tr>
+  </tr>
+ <tr>
     🌱 **Python, ABAP, JavaScript, Dart, Java**.
  </tr>
-<tr>
+ <tr>
     🌱 **Exploring Artificial Intelligence & Machine Learning recently**.
  </tr>
  <tr>
     🎯 My Goal is to get rich coding :D
-  </tr>
-  <tr>  
+</tr>
+<tr>  
   ✨ I love to create 
 </tr>
-
-
 </table>
 
