@@ -10,7 +10,9 @@ I'm trying to get rich !
  
 <table>
 <tr>
+ <td>
     🎓 I am **SAP Enterprise Mobility & Integration Consultant & Full Stack Software Developer**
+ </td>
   </tr>
  <tr>
     🌱 **Python, ABAP, JavaScript, Dart, Java**.
