@@ -12,8 +12,6 @@ I'm trying to get rich !
 <tr>
  <td>
     🎓 ** Graduation in Information & Technology **
-    🎓 ** Post Graduation Artificial Intelligence & Machine Learning **
-    ✨ I am ** SAP Enterprise Mobility & Integration Consultant , Full Stack Software Developer **
  </td>
  </tr>
  <tr>
@@ -23,7 +21,7 @@ I'm trying to get rich !
   </tr>
  <tr>
  <td>
-    ✨ I am ** SAP Enterprise Mobility & Integration Consultant , Full Stack Software Developer **
+    ✨ Job Title ** SAP Enterprise Mobility & Integration Consultant , Full Stack Software Developer **
  </td>
   </tr>
  <tr>
