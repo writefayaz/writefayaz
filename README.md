@@ -15,6 +15,16 @@ I'm trying to get rich !
     🎓 ** Post Graduation Artificial Intelligence & Machine Learning **
     ✨ I am ** SAP Enterprise Mobility & Integration Consultant , Full Stack Software Developer **
  </td>
+ </tr>
+ <tr>
+ <td>
+    🎓 ** Post Graduation Artificial Intelligence & Machine Learning **
+ </td>
+  </tr>
+ <tr>
+ <td>
+    ✨ I am ** SAP Enterprise Mobility & Integration Consultant , Full Stack Software Developer **
+ </td>
   </tr>
  <tr>
    <td>
