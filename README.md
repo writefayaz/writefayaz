@@ -23,7 +23,7 @@ I'm trying to get rich !
   </tr>
  <tr>
  <td>
-    ✨ Job Title ** SAP Enterprise Mobility & Integration Consultant , Full Stack Software Developer **
+    ✨ Job Title ** SAP - App Dev, Enterprise Mobility, Integrations, DevOps, AIML, Automations **
  </td>
   </tr>
  <tr>
@@ -33,7 +33,7 @@ I'm trying to get rich !
  </tr>
  <tr>
    <td>
-    🌱 **Exploring Artificial Intelligence & Machine Learning recently**.
+    🌱 **Exploring Artificial Intelligence & Machine Learning **.
      </td>
  </tr>
  <tr>
